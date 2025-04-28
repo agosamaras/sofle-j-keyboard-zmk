@@ -11,8 +11,12 @@
 > 
 ---
 
+# Instructions for key mapping
+1. Add/Modify mappings in file config/eyelash_sofle.keymap
+2. Push the changes to origin (this will generate a new svg with the mappings and the firmaware using Github actions) 
+
 # Sofle Keymap
 
 
-<img src="keymap-drawer/sofle.svg" >
+<img src="keymap-drawer/eyelash_sofle.svg" >
 
